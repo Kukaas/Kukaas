@@ -14,41 +14,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🏄‍♂️ Kukaass
 
-**`Digital Craftsman (Developer)`**
+# 🏄‍♂️ Kukaass  
 
-I'm a developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+**`Digital Craftsman (Full-Stack Developer | Freelancer)`**  
 
-Currently, I am an OJT intern at **RAMCAR Group of Companies**, where I apply my skills in real-world scenarios. My tech stack revolves around the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, but I also have **basic knowledge of PHP Laravel**. 
+I'm a **full-stack developer** passionate about building high-quality, scalable, and efficient applications. I specialize in **MERN stack** development and have hands-on experience working on **real-world projects**. I also offer my expertise as a **freelancer**, helping businesses bring their ideas to life.  
 
-In addition to working on real-world projects, I also do **freelancing**, helping businesses and individuals build functional and optimized web applications.
+Currently, I am an **OJT intern at RAMCAR Group of Companies**, where I apply my skills in a corporate environment, solving real-world challenges with code.  
 
 ---
 
-### 🧰 Languages and Tools
+### 🚀 What I Do  
+- 💻 **Full-Stack Development** (MongoDB, Express.js, React.js, Node.js)  
+- 🎨 **Frontend Design** with **Tailwind CSS** & **Material UI**  
+- 🛠️ **Backend Development** with **Node.js, Express.js, Laravel**  
+- 📊 **Database Management** (MongoDB, MySQL)  
+- 🔄 **API Development & Integration** (REST APIs, third-party APIs)  
+- 🔍 **Troubleshooting & Debugging** complex applications  
+- 🔧 **Optimizing Application Performance**  
+- 🎯 **Freelancing**, helping businesses build functional and optimized web apps  
+
+---
+
+### 🧰 Tech Stack & Tools  
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 <br />
 
 #
 
-<details>
- <summary><h3>👨‍💻 Kukaass Coding Journey</h3></summary>
-   I started my coding journey as a **BSIT student** with a passion for learning everything I could about programming. Over time, I have gained experience in various technologies and continue to grow in my field.
+---
 
-   - 💼 Currently an **OJT intern at RAMCAR Group of Companies**.
-   - 🖥️ Primary Tech Stack: **MERN (MongoDB, Express.js, React.js, Node.js)**.
-   - 🛠️ **Basic knowledge of PHP Laravel**.
-   - 🌍 **Experience in real-world projects**.
-   - 💼 **Freelancing experience**, helping clients build web applications.
+### 📈 GitHub Contributions  
 
-   I am always eager to learn new things and take on challenging projects that help me grow as a developer. 🚀
-</details>
+![GitHub Contribution Graph](https://your-image-link-here)  
+
+---
+
+### 👨‍💻 My Coding Journey  
+
+I started my coding journey as a **BSIT student** with a deep passion for programming. My curiosity led me to explore **full-stack development**, and over time, I gained hands-on experience in building web applications.  
+
+- 💼 **OJT Intern at RAMCAR Group of Companies**  
+- 🏗️ **Building real-world applications**  
+- 💻 **Freelancer, working with clients on custom software solutions**  
+- 🔥 **Continuous learner, always improving my skills in web technologies**  
+
+I love tackling **challenging problems**, optimizing application performance, and helping businesses **transform ideas into reality**.  
+
+Let's connect and build something amazing! 🚀  
