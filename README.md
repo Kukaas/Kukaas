@@ -59,8 +59,7 @@ Currently, I am an **OJT intern at RAMCAR Group of Companies**, where I apply my
 
 ### 📈 GitHub Contributions  
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Kukaas&count_private=true&show_icons=true&hide=prs&hide_title=true)
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kukaas&theme=github)
 
 ---
 
