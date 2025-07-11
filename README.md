@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a **full-stack developer** passionate about building high-quality, scalable, and efficient applications. I specialize in **MERN stack** development and have hands-on experience working on **real-world projects**. I also offer my expertise as a **freelancer**, helping businesses bring their ideas to life.  
 
-Currently, I am an **OJT intern at RAMCAR Group of Companies**, where I apply my skills in a corporate environment, solving real-world challenges with code.  
+I was at **OJT intern at RAMCAR Group of Companies**, where I apply my skills in a corporate environment, solving real-world challenges with code.  
 
 ---
 
