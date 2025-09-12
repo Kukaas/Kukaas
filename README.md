@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🏄‍♂️ Kukaass  
 
-**`Digital Craftsman (Full-Stack Developer | Freelancer)`**  
+**`Software Developer @ ASG Platform`**  
 
 I'm a **full-stack developer** passionate about building high-quality, scalable, and efficient applications. I specialize in **MERN stack** development and have hands-on experience working on **real-world projects**. I also offer my expertise as a **freelancer**, helping businesses bring their ideas to life.  
 
