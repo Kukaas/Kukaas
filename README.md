@@ -1,43 +1,24 @@
-### Hi there 👋
+# 👋 Hi, I'm Chester Luke Maligaso  
 
-<!--
-**Kukaas/Kukaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | MERN + Laravel | Open to Work 🚀**
 
-Here are some ideas to get you started:
+I’m a full-stack developer specializing in **MERN stack and Laravel**, building scalable web applications for real-world use. I gained hands-on experience as a developer at ASG Platform, where I assisted in feature development, created proof-of-concept systems, and researched solutions to improve applications. I also completed my internship at RAMCAR Group of Companies and worked on multiple freelance projects delivering real solutions for clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 🏄‍♂️ Kukaass  
-
-**`Software Developer @ ASG Platform`**  
-
-I'm a **full-stack developer** passionate about building high-quality, scalable, and efficient applications. I specialize in **MERN stack** development and have hands-on experience working on **real-world projects**. I also offer my expertise as a **freelancer**, helping businesses bring their ideas to life.  
-
-I was an **OJT intern at RAMCAR Group of Companies**, where I apply my skills in a corporate environment, solving real-world challenges with code.  
+I focus on writing clean, efficient, and production-ready code while continuously improving my skills in modern web technologies.
 
 ---
 
-### 🚀 What I Do  
-- 💻 **Full-Stack Development** (MongoDB, Express.js, React.js, Node.js)  
-- 🎨 **Frontend Design** with **Tailwind CSS** & **Material UI**  
-- 🛠️ **Backend Development** with **Node.js, Express.js, Laravel**  
-- 📊 **Database Management** (MongoDB, MySQL)  
-- 🔄 **API Development & Integration** (REST APIs, third-party APIs)  
-- 🔍 **Troubleshooting & Debugging** complex applications  
-- 🔧 **Optimizing Application Performance**  
-- 🎯 **Freelancing**, helping businesses build functional and optimized web apps  
+## 🚀 What I Do
+- 💻 Full-Stack Development (MongoDB, Express.js, React.js, Node.js, Laravel)  
+- 🎨 Frontend Design with Tailwind CSS
+- 🛠️ API Development & Integration  
+- 🔍 Troubleshooting and Debugging  
+- 📊 Database Management (MongoDB, MySQL)  
+- 🤝 Freelancing and real-world project development  
 
 ---
 
-### 🧰 Tech Stack & Tools  
+## 🧰 Tech Stack & Tools  
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -45,33 +26,14 @@ I was an **OJT intern at RAMCAR Group of Companies**, where I apply my skills in
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
-
 ---
 
-### 📈 GitHub Contributions  
-
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Kukaas&count_private=true&show_icons=true&hide=prs&hide_title=true)
-
----
-
-### 👨‍💻 My Coding Journey  
-
-I started my coding journey as a **BSIT student** with a deep passion for programming. My curiosity led me to explore **full-stack development**, and over time, I gained hands-on experience in building web applications.  
-
-- 💼 **OJT Intern at RAMCAR Group of Companies**  
-- 🏗️ **Building real-world applications**  
-- 💻 **Freelancer, working with clients on custom software solutions**  
-- 🔥 **Continuous learner, always improving my skills in web technologies**  
-
-I love tackling **challenging problems**, optimizing application performance, and helping businesses **transform ideas into reality**.  
-
-Let's connect and build something amazing! 🚀  
+📫 **Let’s Connect**  
+- 🌐 Portfolio: https://www.kukaass.app/  
+- 📘 Facebook Dev Page: https://www.facebook.com/kukaass.dev/  
+- 📧 Email: maligaso.chesterlukea@gmail.com  
