@@ -95,16 +95,6 @@ By day I'm at **Geoplan Philippines**, building systems that help people make se
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kukaas&theme=flat&no-frame=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
 <div align="center">
 
 *"Code with purpose. Build with impact."*
